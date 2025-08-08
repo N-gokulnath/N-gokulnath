@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/N-gokulnath/N-gokulnath/blob/main/images.jpeg)
 <h1 align="center">Hi, I'm Gokulnath N</h1>
-<h3 align="center">A passionate Mern stack Developer from India</h3>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-gokulnath&label=Profile%20views&color=0e75b6&style=flat" alt="n-gokulnath" /> </p>
@@ -22,11 +22,6 @@
 </p>
 
 
-
-
-<h1 align="center">Hi 👋, I'm Gokulnath N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-gokul27&label=Profile%20views&color=0e75b6&style=flat" alt="n-gokul27" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n-gokul27" alt="n-gokul27" /></a> </p>
@@ -35,7 +30,7 @@
 
 - 🌱 I’m currently learning **Bootstrap,Python,React**
 
-- 👨‍💻 All of my projects are available at [https://N-Gokul27.github.io/Portfolio/](https://N-Gokul27.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://N-Gokulnath.github.io/Portfolio/](https://N-Gokulnath.github.io/Portfolio/)
 
 - 💬 Ask me about **Javascript**
 
