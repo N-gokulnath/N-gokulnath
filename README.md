@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-gokulnath&label=Profile%20views&color=0e75b6&style=flat" alt="n-gokulnath" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Mern stack**
+- 💬 Ask me about **Front end**
 
 - 📫 How to reach me **gokulnath272006@gmail.com**
 - <h3 align="left">Connect with me:</h3>
