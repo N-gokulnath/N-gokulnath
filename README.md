@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/N-gokulnath/N-gokulnath/blob/main/images.jpeg" alt="MasterHead" style="width: 100%;"/>
   <h1>Hi, I'm Gokulnath N</h1>
-  <h3 >A passionate Front-end Developer from India</h3>
+  <h3 >A passionate Web Developer from India</h3>
 </div>
 
 <div align="center">
