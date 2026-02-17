@@ -51,12 +51,7 @@
 </p>
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-gokulnath&show_icons=true&locale=en&layout=compact" alt="N-gokulnath" />
-  </p>
-  <p>
-    &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=N-gokulnath&show_icons=true&locale=en" alt="N-gokulnath" />
-  </p>
+  
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-gokulnath&" alt="N-gokulnath" />
   </p>
