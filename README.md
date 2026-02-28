@@ -18,7 +18,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Cable-pro](https://github.com/N-Gokulnath/Cable-pro.git)
+- 🔭 I’m currently working on [Cable-pro](https://github.com/N-Gokulnath/cablepro.git)
 
 - 🌱 I’m currently learning **Bootstrap,Python,React**
 
