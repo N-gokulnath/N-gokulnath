@@ -29,7 +29,7 @@ I'm **Gokulnath N**, a passionate **Full Stack Web Developer** from **India**, f
 
 - 🔭 Currently building **[CablePro](https://github.com/N-Gokulnath/cablepro.git)** — a real-world full stack project
 - 🌱 Currently levelling up in **React**, **Python**, and **Bootstrap**
-- 💼 All my projects → **[gokulnath-portfolio](https://N-Gokulnath.github.io/Portfolio/)**
+- 💼 All my projects → **[gokulnath-portfolio](https://N-Gokulnath.github.io/gokulnath-n/)**
 - 💬 Talk to me about **Python, JavaScript, Full Stack Development**
 - 📫 Reach me at **gokulnath272006@gmail.com**
 - ⚡ Fun fact: I turn coffee into working web apps ☕
