@@ -11,7 +11,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=n-gokulnath&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Gokulnath N GitHub Profile Views" />
-  <a href="https://N-Gokulnath.github.io/Portfolio/">
+  <a href="https://N-Gokulnath.github.io/gokulnath-n/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Gokulnath N Portfolio" />
   </a>
   <a href="mailto:gokulnath272006@gmail.com">
@@ -110,7 +110,7 @@ I'm **Gokulnath N**, a passionate **Full Stack Web Developer** from **India**, f
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokulnath%20N-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gokulnath-n-01b837319)
-[![Portfolio](https://img.shields.io/badge/Portfolio-gokulnath--portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://N-Gokulnath.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gokulnath--portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://N-Gokulnath.github.io/gokulnath-n/)
 [![Gmail](https://img.shields.io/badge/Gmail-gokulnath272006-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulnath272006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-N--gokulnath-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-gokulnath)
 
