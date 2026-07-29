@@ -118,6 +118,7 @@ I'm **Gokulnath N**, a passionate **Full Stack Web Developer** from **India**, f
 
 ---
 
+<meta name="google-site-verification" content="kVajh35z4nKjqUiWdSQJU6KzhoVg_OO56Z0oFnuWr_A" />
 <div align="center">
   <sub>⚡ Built with passion by <strong>Gokulnath N</strong> — Full Stack Developer from India</sub>
 </div>
