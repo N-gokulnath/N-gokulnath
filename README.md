@@ -76,7 +76,7 @@ I'm **Gokulnath N**, a passionate **Full Stack Web Developer** from **India**, f
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | 🔌 **CablePro** | A full-stack cable management & billing platform | HTML, CSS, JS, PostgreSQL | [View Repo](https://github.com/N-Gokulnath/cablepro.git) |
-| 🌐 **Portfolio** | My personal developer portfolio showcasing all work | HTML, CSS, JavaScript | [Live Site](https://N-Gokulnath.github.io/Portfolio/) |
+| 🌐 **Portfolio** | My personal developer portfolio showcasing all work | HTML, CSS, JavaScript | [Live Site](https://N-Gokulnath.github.io/gokulnath-n/) |
 
 > ⭐ Star the repos if you find them useful!
 
